@@ -1,0 +1,1 @@
+/usr/lib64/ccache/gcc  -g -std=c99 -Wall -Wextra -pedantic -g -rdynamic CMakeFiles/checkperms.dir/lists.c.o CMakeFiles/checkperms.dir/main.c.o CMakeFiles/checkperms.dir/sample_printer.c.o -o checkperms 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -Wextra -Werror -pedantic -g -ggdb3 -g  -rdynamic CMakeFiles/demo.dir/demo.c.o CMakeFiles/demo.dir/pcap.c.o CMakeFiles/demo.dir/capture.c.o  -o demo 

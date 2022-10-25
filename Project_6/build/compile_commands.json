@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic.dir/src/main.c.o -c /home/xlodnan/pb071/hw06/src/main.c",
+  "file": "/home/xlodnan/pb071/hw06/src/main.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic.dir/src/parser.c.o -c /home/xlodnan/pb071/hw06/src/parser.c",
+  "file": "/home/xlodnan/pb071/hw06/src/parser.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic.dir/src/structs.c.o -c /home/xlodnan/pb071/hw06/src/structs.c",
+  "file": "/home/xlodnan/pb071/hw06/src/structs.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/tests/cut_main_runner.c.o -c /home/xlodnan/pb071/hw06/tests/cut_main_runner.c",
+  "file": "/home/xlodnan/pb071/hw06/tests/cut_main_runner.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/tests/exitus.c.o -c /home/xlodnan/pb071/hw06/tests/exitus.c",
+  "file": "/home/xlodnan/pb071/hw06/tests/exitus.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/tests/wmain.c.o -c /home/xlodnan/pb071/hw06/tests/wmain.c",
+  "file": "/home/xlodnan/pb071/hw06/tests/wmain.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/tests/tests-nanecisto.c.o -c /home/xlodnan/pb071/hw06/tests/tests-nanecisto.c",
+  "file": "/home/xlodnan/pb071/hw06/tests/tests-nanecisto.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/tests/utils_for_tests.c.o -c /home/xlodnan/pb071/hw06/tests/utils_for_tests.c",
+  "file": "/home/xlodnan/pb071/hw06/tests/utils_for_tests.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/src/parser.c.o -c /home/xlodnan/pb071/hw06/src/parser.c",
+  "file": "/home/xlodnan/pb071/hw06/src/parser.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw06/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -DWRAP_INDIRECT   -std=gnu99 -Wall -Wextra -pedantic -g -g -o CMakeFiles/pandemic-tests.dir/src/structs.c.o -c /home/xlodnan/pb071/hw06/src/structs.c",
+  "file": "/home/xlodnan/pb071/hw06/src/structs.c"
+}
+]

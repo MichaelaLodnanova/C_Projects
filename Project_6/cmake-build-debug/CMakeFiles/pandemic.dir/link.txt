@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -Wall -Wextra -pedantic -g -g  -rdynamic CMakeFiles/pandemic.dir/src/main.c.o CMakeFiles/pandemic.dir/src/parser.c.o CMakeFiles/pandemic.dir/src/structs.c.o  -o pandemic 

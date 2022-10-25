@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -Wextra -Werror -pedantic -g -ggdb3 -g  -rdynamic CMakeFiles/nft.dir/nft.c.o CMakeFiles/nft.dir/pcap.c.o CMakeFiles/nft.dir/capture.c.o  -o nft 

@@ -1,0 +1,20 @@
+# file: .
+# owner: {USER}
+# group: {GROUP}
+user::rwx
+group::---
+other::---
+
+# file: dir
+# owner: {USER}
+# group: {GROUP}
+user::rwx
+group::r-x
+other::r-x
+
+# file: test
+# owner: {USER}
+# group: {GROUP}
+user::rw-
+group::rw-
+other::rw-

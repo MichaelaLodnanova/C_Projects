@@ -1,0 +1,4 @@
+/mnt/c/Users/lodna/Desktop/Project_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/lodna/Desktop/Project_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lodna/Desktop/Project_5/cmake-build-debug/CMakeFiles/checkperms-tests.dir
+/mnt/c/Users/lodna/Desktop/Project_5/cmake-build-debug/CMakeFiles/checkperms.dir

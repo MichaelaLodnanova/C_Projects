@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/tests/cut_main_runner.c.o -c /home/xlodnan/pb071/hw05/tests/cut_main_runner.c",
+  "file": "/home/xlodnan/pb071/hw05/tests/cut_main_runner.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/tests/exitus.c.o -c /home/xlodnan/pb071/hw05/tests/exitus.c",
+  "file": "/home/xlodnan/pb071/hw05/tests/exitus.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/tests/tests-nanecisto.c.o -c /home/xlodnan/pb071/hw05/tests/tests-nanecisto.c",
+  "file": "/home/xlodnan/pb071/hw05/tests/tests-nanecisto.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/tests/utils.c.o -c /home/xlodnan/pb071/hw05/tests/utils.c",
+  "file": "/home/xlodnan/pb071/hw05/tests/utils.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/tests/wmain.c.o -c /home/xlodnan/pb071/hw05/tests/wmain.c",
+  "file": "/home/xlodnan/pb071/hw05/tests/wmain.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/lists.c.o -c /home/xlodnan/pb071/hw05/lists.c",
+  "file": "/home/xlodnan/pb071/hw05/lists.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms-tests.dir/sample_printer.c.o -c /home/xlodnan/pb071/hw05/sample_printer.c",
+  "file": "/home/xlodnan/pb071/hw05/sample_printer.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_GNU_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms.dir/lists.c.o -c /home/xlodnan/pb071/hw05/lists.c",
+  "file": "/home/xlodnan/pb071/hw05/lists.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_GNU_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms.dir/main.c.o -c /home/xlodnan/pb071/hw05/main.c",
+  "file": "/home/xlodnan/pb071/hw05/main.c"
+},
+{
+  "directory": "/home/xlodnan/pb071/hw05/build",
+  "command": "/usr/lib64/ccache/gcc -DCUT -D_DEFAULT_SOURCE=1 -D_GNU_SOURCE=1 -D_POSIX_C_SOURCE=200809L   -g -std=c99 -Wall -Wextra -pedantic -g -o CMakeFiles/checkperms.dir/sample_printer.c.o -c /home/xlodnan/pb071/hw05/sample_printer.c",
+  "file": "/home/xlodnan/pb071/hw05/sample_printer.c"
+}
+]

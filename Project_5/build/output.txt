@@ -1,0 +1,524 @@
+# file: .
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CompilerIdC
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CompilerIdC/tmp
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CompilerIdC/CMakeCCompilerId.c
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/3.18.3/CompilerIdC/a.out
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CompilerIdCXX
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CompilerIdCXX/tmp
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/3.18.3/CompilerIdCXX/a.out
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CMakeCCompiler.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/3.18.3/CMakeCXXCompiler.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/3.18.3/CMakeDetermineCompilerABI_C.bin
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CMakeDetermineCompilerABI_CXX.bin
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/3.18.3/CMakeSystem.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/CMakeTmp
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/checkperms-tests.dir
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/checkperms-tests.dir/tests
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/checkperms-tests.dir/tests/cut_main_runner.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/tests/exitus.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/tests/tests-nanecisto.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/tests/utils.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/tests/wmain.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/C.includecache
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/DependInfo.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/build.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/cmake_clean.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/depend.internal
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/depend.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/flags.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/link.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/lists.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms-tests.dir/progress.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/checkperms.dir/C.includecache
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/DependInfo.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/build.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/cmake_clean.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/depend.internal
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/depend.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/flags.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/link.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/lists.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/main.c.o
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/checkperms.dir/progress.make
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/CMakeDirectoryInformation.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/CMakeOutput.log
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/Makefile.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/Makefile2
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/TargetDirectories.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/cmake.check_cache
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/feature_tests.bin
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: CMakeFiles/feature_tests.cxx
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeFiles/progress.marks
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: pb071-hw05.tmp.n2YFw6
+# owner: xlodnan
+# group: student
+user::rwx
+group::---
+other::---
+
+# file: pb071-hw05.tmp.n2YFw6/dir
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: pb071-hw05.tmp.n2YFw6/exe
+# owner: xlodnan
+# group: student
+user::rw-
+group::rw-
+other::rw-
+
+# file: pb071-hw05.tmp.n2YFw6/file
+# owner: xlodnan
+# group: student
+user::rwx
+group::rwx
+other::rwx
+
+# file: pb071-hw05.tmp.w6a9c7
+# owner: xlodnan
+# group: student
+user::rwx
+group::---
+other::---
+
+# file: pb071-hw05.tmp.w6a9c7/dir
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: pb071-hw05.tmp.w6a9c7/test
+# owner: xlodnan
+# group: student
+user::rw-
+group::rw-
+other::rw-
+
+# file: .asd°4%.xayz.exw asd. .  .. %
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: CMakeCache.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: Makefile
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: checkperms
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: checkperms-tests
+# owner: xlodnan
+# group: student
+user::rwx
+group::r-x
+other::r-x
+
+# file: cmake_install.cmake
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: cwd-k.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: cwd.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: out-k.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: out.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: output.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: test-export.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--
+
+# file: test-import.txt
+# owner: xlodnan
+# group: student
+user::rw-
+group::r--
+other::r--

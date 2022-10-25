@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xlodnan/pb071/hw06/src/parser.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+linux/limits.h
+-
+structs.h
+/home/xlodnan/pb071/hw06/src/structs.h
+parser.h
+/home/xlodnan/pb071/hw06/src/parser.h
+
+/home/xlodnan/pb071/hw06/src/parser.h
+
+/home/xlodnan/pb071/hw06/src/structs.h
+getopt.h
+-
+

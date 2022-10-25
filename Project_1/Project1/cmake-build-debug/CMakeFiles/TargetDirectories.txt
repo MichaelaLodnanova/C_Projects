@@ -1,0 +1,4 @@
+/mnt/c/Users/lodna/Desktop/Project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/lodna/Desktop/Project_1/cmake-build-debug/CMakeFiles/tests.dir
+/mnt/c/Users/lodna/Desktop/Project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lodna/Desktop/Project_1/cmake-build-debug/CMakeFiles/calc.dir

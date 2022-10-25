@@ -1,0 +1,4 @@
+/mnt/c/Users/lodna/Desktop/Project6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/lodna/Desktop/Project6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lodna/Desktop/Project6/cmake-build-debug/CMakeFiles/pandemic.dir
+/mnt/c/Users/lodna/Desktop/Project6/cmake-build-debug/CMakeFiles/pandemic-tests.dir

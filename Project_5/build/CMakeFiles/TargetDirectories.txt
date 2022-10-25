@@ -1,0 +1,4 @@
+/home/xlodnan/pb071/hw05/build/CMakeFiles/rebuild_cache.dir
+/home/xlodnan/pb071/hw05/build/CMakeFiles/edit_cache.dir
+/home/xlodnan/pb071/hw05/build/CMakeFiles/checkperms-tests.dir
+/home/xlodnan/pb071/hw05/build/CMakeFiles/checkperms.dir
