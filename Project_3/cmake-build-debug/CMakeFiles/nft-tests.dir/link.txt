@@ -1,1 +1,0 @@
-/usr/bin/cc  -std=c99 -Wall -Wextra -Werror -pedantic -g -ggdb3 -g  -rdynamic CMakeFiles/nft-tests.dir/pcap.c.o CMakeFiles/nft-tests.dir/capture.c.o CMakeFiles/nft-tests.dir/tests/cut_main_runner.c.o CMakeFiles/nft-tests.dir/tests/tests-e2e.c.o CMakeFiles/nft-tests.dir/tests/tests-unit.c.o  -o nft-tests 

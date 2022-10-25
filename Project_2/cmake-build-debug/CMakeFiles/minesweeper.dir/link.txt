@@ -1,1 +1,0 @@
-/usr/bin/cc  -std=c99 -Wall -Wextra -pedantic -Werror -g   CMakeFiles/minesweeper.dir/main.c.o CMakeFiles/minesweeper.dir/minesweeper.c.o  -o minesweeper 

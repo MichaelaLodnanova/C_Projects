@@ -1,5 +1,0 @@
-/mnt/c/Users/lodna/Desktop/Project_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/lodna/Desktop/Project_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lodna/Desktop/Project_3/cmake-build-debug/CMakeFiles/nft-tests.dir
-/mnt/c/Users/lodna/Desktop/Project_3/cmake-build-debug/CMakeFiles/demo.dir
-/mnt/c/Users/lodna/Desktop/Project_3/cmake-build-debug/CMakeFiles/nft.dir

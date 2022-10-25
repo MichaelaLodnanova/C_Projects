@@ -1,1 +1,0 @@
-/usr/bin/cc  -std=c99 -Wall -Wextra -Werror -pedantic -g  -rdynamic CMakeFiles/tests.dir/tests.c.o  -o tests 

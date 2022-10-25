@@ -1,4 +1,0 @@
-/mnt/c/Users/lodna/Desktop/Project_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/lodna/Desktop/Project_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lodna/Desktop/Project_2/cmake-build-debug/CMakeFiles/minesweeper-tests.dir
-/mnt/c/Users/lodna/Desktop/Project_2/cmake-build-debug/CMakeFiles/minesweeper.dir
